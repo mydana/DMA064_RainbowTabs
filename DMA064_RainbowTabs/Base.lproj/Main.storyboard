@@ -63,7 +63,7 @@
         <!--Green-->
         <scene sceneID="QJv-xd-LUn">
             <objects>
-                <viewController title="Green" id="T9i-bz-fOJ" sceneMemberID="viewController">
+                <viewController id="T9i-bz-fOJ" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="omp-zF-Rft">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -79,7 +79,7 @@
         <!--Blue-->
         <scene sceneID="Z9a-tZ-hxP">
             <objects>
-                <viewController title="Blue" id="go7-qT-SkP" sceneMemberID="viewController">
+                <viewController id="go7-qT-SkP" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="K2l-7f-b1O">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
